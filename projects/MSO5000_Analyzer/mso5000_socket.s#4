@@ -731,8 +731,6 @@ Source: http://www.commcon.com/main</description>
 <parts>
 <part name="IDC_TOP" library="pinhead" deviceset="PINHD-1X25" device="1X25_IDC_PADS"/>
 <part name="IDC_BOTTOM" library="pinhead" deviceset="PINHD-1X25" device="1X25_IDC_PADS"/>
-<part name="U$1" library="pinhead" deviceset="ZIFF-050" device=""/>
-<part name="U$2" library="pinhead" deviceset="ZIFF-050" device=""/>
 <part name="U$3" library="pinhead" deviceset="ZIFF-050" device=""/>
 </parts>
 <sheets>
